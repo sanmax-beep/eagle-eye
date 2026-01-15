@@ -1,4 +1,4 @@
-the author sanjay. ks is not responsible for any kind of missue. it is made for educational purpose only.
+the author Sanjay.K S is not responsible for any kind of missue. it is made for educational purpose only.
 👉Termux code:git clone https://github.com/sanmax-beep/eagle-eye.git
 cd eagle-eye
 pip install tldextract rapidfuzz python-whois requests
